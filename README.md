@@ -1,1 +1,1 @@
-Typescript abd Webpack starter
+Typescript and Webpack starter
